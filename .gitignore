@@ -1,0 +1,14 @@
+ni .gitignore -Value @"
+# .NET / Visual Studio
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.cache
+*.pdb
+
+# OS
+.DS_Store
+Thumbs.db
+"@
